@@ -1,0 +1,2 @@
+012901;Orange Juice Bottles;Juice;3;400;JuiceComp;1;1;20/9/2023
+012902;Eyeliner;BEAUTY;3;400;Fenty Beauty;0;0;0/0/0
