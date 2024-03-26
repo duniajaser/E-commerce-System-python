@@ -1,0 +1,4 @@
+012901;Ahmad Hussam;19/1/2002;shopper;1;{012901:10,012902:3,112902:3};0
+012902;Ahmad Hamdallah;19/1/2002;admin;1;{};0
+012912;Raneem;19/1/2002;shopper;1;{012901:10};1
+01291;Ahmad Hussam;19/1/2002;admin;1;{};0
